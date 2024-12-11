@@ -2,7 +2,7 @@
 #include <string.h>
 int main() {
     char str[1000];
-    printf("Nhap string: ");
+    printf("Nhap chuoi ky tu: ");
     fgets(str, 1000, stdin);
     int n = strlen(str);
     for(int i = 0; i < n; i++) {
