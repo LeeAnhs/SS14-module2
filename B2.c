@@ -8,5 +8,4 @@ int main() {
     for(int i = 0; i < n; i++) {
         printf("%c ", str[i]);
     }
-    printf("\nco %d ki tu", n );
 }
